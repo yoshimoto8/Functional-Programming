@@ -1,0 +1,22 @@
+{
+  "name": "functional-programing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshimoto8/Functional-Programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshimoto8/Functional-Programming/issues"
+  },
+  "homepage": "https://github.com/yoshimoto8/Functional-Programming#readme",
+  "dependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
